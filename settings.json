@@ -1,5 +1,6 @@
 {
   "authorization_background": "/resources/background_image_1.png",
+  "main_content_background": "/resources/background_image_2.png",
   "theme_seed": "#7FFFD4",
   "title": "Megajoule", 
   "version": "2.0"
