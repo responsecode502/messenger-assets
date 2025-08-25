@@ -1,6 +1,6 @@
 {
-  "auth_background": "https://4kwallpapers.com/images/wallpapers/glossy-abstract-3840x2160-9602.jpg",
-  "theme_seed": "#804FA1",
-  "title": "Megajoule",
+  "authorization_background": "./resources/background_image_1.jpg",
+  "theme_seed": "#7FFFD4",
+  "title": "Megajoule", 
   "version": "2.0"
 }
