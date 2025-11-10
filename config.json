@@ -2,5 +2,5 @@
   "title": "Megajoule",
   "theme_seed": "#FF59B7",
   "auth_background": "/assets/auth_bg.webp",
-  "ws_url": "wss://127.0.0.1:8000/ws"
+  "ws_url": "wss://192.168.1.68:8000/ws"
 }
